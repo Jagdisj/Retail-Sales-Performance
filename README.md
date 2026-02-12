@@ -56,6 +56,11 @@ This project solves that problem by providing a **centralized, interactive dashb
    - Slicers (Date & Region)
 
 ---
+## 📸 Example Output
+<img width="1920" height="1020" alt="dashboard3" src="https://github.com/user-attachments/assets/2c2f4fa3-b3e9-4615-9936-cc49a5de1743" />
+<img width="1920" height="1020" alt="dashoboard2" src="https://github.com/user-attachments/assets/8da6fe60-4ef5-457e-bd19-3bdb5e3cbb95" />
+<img width="1920" height="1020" alt="dashboard1" src="https://github.com/user-attachments/assets/3bb9cac6-9278-4843-9ce5-e1570126bea7" />
+
 
 ## ⚙️ Installation Instructions
 
